@@ -28,7 +28,6 @@ app.get('/persons', function(req, res) {
 		"name": "李四",
 		"age": "20"
 	});
-s
 
 	// 返回JSON的数据
 	res.json(persons);
